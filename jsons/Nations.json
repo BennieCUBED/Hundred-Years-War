@@ -6,6 +6,13 @@
     "startBias": ["Coast"],
     "preferredVictoryType": "Domination",
     "favoredReligion": "Christianity",
+
+    "declaringWar": "Enough of this... If I can't get what I want, I'll take it from you!",
+    "attacked": "War? How could you possibly invade us when we have the channel in our control?",
+    "defeated": "With debt rising and my rule being contested, I surrender to you...",
+    "introduction": "As the king of England, I welcome you to the Kingdom.",
+    
+
     
   },
 ]
