@@ -2,5 +2,10 @@
   {
     "name": "England",
     "leaderName": "Edward III",
+    "adjective": ["English"],
+    "startBias": ["Coast"],
+    "preferredVictoryType": "Domination",
+    "favoredReligion": "Christianity",
+    
   },
 ]
