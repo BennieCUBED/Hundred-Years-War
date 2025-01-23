@@ -17,8 +17,8 @@
 
     "tradeRequest": "Would you like a trade agreement with England?",
 
-    "outerColor": [],
-    "innerColor": [],
+    "outerColor": [189, 17, 17],
+    "innerColor": [235, 221, 35],
     "uniqueName": "",
     "uniques": [""],
     "cities": ["London"],
