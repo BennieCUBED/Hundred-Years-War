@@ -28,7 +28,7 @@
     "leaderName": "Charles V",
     "adjective": ["French"],
     "startBias": ["Grassland"],
-    "preferredVictoryType": "Neutral",
+    "preferredVictoryType": "Cultural",
     "favoredReligion": "Christianity",
 
     "declaringWar": "We must take back what was ours, no matter how long it may take..!",
@@ -47,4 +47,10 @@
     "uniques": ["[+1 Gold] [in all cities] <when at war>","[+1 Culture] [in capital]"],
     "cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble","Dijon","Amiens","Cherbourg","Poitiers","Toulouse"],
   },
+  {
+    "name": "Castile",
+    "leaderName": "...",
+    "adjective": ["Castilian"],
+    "preferredVictoryType": "Neutral",
+    "favoredReligion": "Christianity",
 ]
