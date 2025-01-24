@@ -65,7 +65,7 @@
     "tradeRequest": "Here, lets trade for now.",
 
     "outerColor": [235, 221, 35],
-    "innerColor": [],
+    "innerColor": [26, 155, 219],
     "uniqueName": "Crown of Castile",
     "uniques": [""],
     "cities": ["Toledo"],
