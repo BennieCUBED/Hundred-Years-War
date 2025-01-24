@@ -45,6 +45,6 @@
     "innerColor": [235, 221, 35],
     "uniqueName": "Montjoie Saint Denis",
     "uniques": ["[+1 Gold] [in all cities] <when at war>","[+1 Culture] [in capital]"],
-    "cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble"],
+    "cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble","Dijon","Amiens","Cherbourg","Poitiers","Toulouse"],
   },
 ]
