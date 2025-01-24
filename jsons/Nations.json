@@ -49,7 +49,7 @@
   },
   {
     "name": "Castile",
-    "leaderName": "...",
+    "leaderName": "Alfonso XI",
     "adjective": ["Castilian"],
     "preferredVictoryType": "Neutral",
     "favoredReligion": "Christianity",
@@ -57,6 +57,16 @@
     "declaringWar": "You seek to destabilise Castile, but I shall not let that happen.",
     "attacked": "I will have your head!",
     "defeated": "I have lost Castile, and the throne along with it... I have failed.",
-    "introduction": "Hello, this is Castile and I am their rightful king,",
+    "introduction": "Hello, this is Castile and I am their rightful king, Alfonso XI",
+
+    "neutralHello": "Hello.",
+    "hateHello": "You better leave now...",
+
+    "tradeRequest": "Here, lets trade for now.",
+
+    "outerColor": [],
+    "innerColor": [],
+    "uniqueName": "",
+    "cities": ["Toledo"],
   },
 ]
