@@ -64,7 +64,7 @@
 
     "tradeRequest": "Here, lets trade for now.",
 
-    "outerColor": [],
+    "outerColor": [235, 221, 35],
     "innerColor": [],
     "uniqueName": "Crown of Castile",
     "uniques": [""],
