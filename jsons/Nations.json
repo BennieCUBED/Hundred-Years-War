@@ -41,10 +41,10 @@
 
     "tradeRequest": "Interested in an agreement?",
 
-    "outerColor": [],
-    "innerColor": [],
+    "outerColor": [25, 63, 230],
+    "innerColor": [235, 221, 35],
     "uniqueName": "Montjoie Saint Denis",
     "uniques": [""],
-    "cities": [""],
+    "cities": ["Paris"],
   },
 ]
