@@ -21,9 +21,14 @@
     "innerColor": [235, 221, 35],
     "uniqueName": "Dieu et mon droit",
     "uniques": ["[+1 Culture] from all [Production] buildings","No movement cost to pillage <for [Mounted] units>"],
-    "cities": ["London","Manchester","York","Birmingham","Liverpool","Cambridge","Oxford","Nottingham","Bath","Exeter","Sutton","Norwich","Ipswich","Cantwareburh"],
-    
-
-    
+    "cities": ["London","Manchester","York","Birmingham","Liverpool","Cambridge","Oxford","Nottingham","Bath","Exeter","Sutton","Norwich","Ipswich","Cantwareburh"],   
+  },
+  {
+    "name": "France",
+    "leaderName": "",
+    "adjective": ["French"],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Neutral",
+    "favoredReligion": "Christianity",
   },
 ]
