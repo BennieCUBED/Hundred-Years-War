@@ -67,7 +67,7 @@
     "outerColor": [235, 221, 35],
     "innerColor": [26, 155, 219],
     "uniqueName": "Crown of Castile",
-    "uniques": ["[+2 Happiness] per every [400] [Gold]"],
+    "uniques": ["[+2 Happiness] per every [400] [Gold]","[+20]% Spread Religion Strength <when at war>"],
     "cities": ["Toledo"],
   },
 ]
