@@ -31,13 +31,20 @@
     "preferredVictoryType": "Neutral",
     "favoredReligion": "Christianity",
 
-    "declaringWar": "...",
-    "attacked": "My spirit is strong, and you'll never break us!",",
-    "defeated": "...",
+    "declaringWar": "We must take back what was ours, no matter how long it may take..!",
+    "attacked": "My spirit is strong, and you'll never break us!",
+    "defeated": "I give up, I've tried to stop you, but you won't stop at nothing...",
     "introduction": "Greetings... I am Charles the fifth, would you like to come with me to the royal ball?",
 
     "neutralHello": "Yes?",
     "hateHello": "Never...",
-  },
+
+    "tradeRequest": "Interested in an agreement?",
+
+    "outerColor": [],
+    "innerColor": [],
+    "uniqueName": "",
+    "uniques": [""],
+    "cities": [""],
   },
 ]
