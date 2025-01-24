@@ -20,7 +20,7 @@
     "outerColor": [189, 17, 17],
     "innerColor": [235, 221, 35],
     "uniqueName": "Dieu et mon droit",
-    "uniques": ["[+1 Culture] from all [Production] buildings"],
+    "uniques": ["[+1 Culture] from all [Production] buildings","No movement cost to pillage <for [Mounted] units>"],
     "cities": ["London"],
     
 
